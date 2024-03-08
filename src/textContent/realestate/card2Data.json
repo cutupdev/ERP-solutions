@@ -1,0 +1,11 @@
+{
+  "Rent Payments": {
+    "heading": "Automate Rent Payments with ERPNext",
+    "body": "ERPNext's project management can be used by real estate businesses to manage property development projects. This module helps to keep track of project progress, manage costs, and ensure that projects are completed on time and within budget.",
+    "video": "/images/work-order.webm"
+  },
+  "Accounting": {
+    "heading": "Improve Your Financial Management",
+    "body": "ERPNext's accounting module provides real-time visibility into the financial performance of a real estate business. This information can be used to make informed decisions about pricing, marketing, and other business operations."
+  }
+}

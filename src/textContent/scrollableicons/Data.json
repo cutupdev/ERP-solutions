@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "path": "/images/bios.png",
+    "name": "Icon 1",
+    "html": "<i class='ri-home-3-fill'></i>"
+  },
+  {
+    "id": 2,
+    "path": "/images/bg.png",
+    "name": "Icon 2",
+    "html": "<i class='ri-home-3-fill'></i>"
+  }
+]

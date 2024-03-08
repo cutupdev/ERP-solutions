@@ -1,0 +1,26 @@
+{
+  "Work Order": {
+    "heading": "Track all the production metrics",
+    "body": "A work order in ERPNext is a document that is used to track the production of a specific item. It includes information such as the item to be manufactured, the quantity to be manufactured, the planned start and end dates, the actual start and end dates, the status, and the quantity produced.\nWork orders are a powerful tool that can be used to improve the efficiency and profitability of manufacturing businesses. By using work orders, businesses can track the progress of production, identify bottlenecks, and reduce cost",
+    "video": "/images/work-order.webm"
+  },
+
+  "Production Plan": {
+    "heading": "Create and manage production schedules",
+    "body": "A production plan in ERPNext is a document used to plan the production of finished goods. It includes information such as the items to be manufactured, the quantities to be manufactured, and the planned start and end dates.\nProduction plans are a valuable tool for manufacturing businesses because they help to ensure that the company has the right amount of finished goods on hand to meet customer demand. They also help to identify bottlenecks in the production process and to schedule the production of items in an efficient manner."
+  },
+  "Job Card": {
+    "heading": "Track job progress efficiently",
+    "body": "A Job Card can be used to track the following information,",
+    "points": [
+      "The start and end times of the job or operation",
+      "The number of items produced",
+      "The materials used",
+      "The labor hours spent"
+    ]
+  },
+  "Downtime Entry": {
+    "heading": "Track downtimes and identify root causes",
+    "body": "A downtime entry in ERPNext is a document that is used to record the downtime of a machine or asset. It can also be used to track the progress of repairs or maintenance.\nDowntime entries are a valuable tool for manufacturing businesses because they help to identify the root causes of downtime and develop strategies to reduce downtime. They also help to track the cost of downtime and to identify ways to reduce these costs."
+  }
+}

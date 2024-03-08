@@ -1,0 +1,157 @@
+{
+  "Solutions": {
+    "items": [
+      {
+        "caption": "Sell smarter, not harder, with ERPNext",
+        "color": "green",
+        "heading": "Retail",
+        "icon": "ri-store-2-line",
+        "link": "/solutions/retail"
+      },
+      {
+        "caption": "Manage Projects, Track time, and Bill clients effortlessly",
+        "heading": "Services",
+        "icon": "ri-service-fill",
+        "link": "/solutions/services",
+        "color": "orange"
+      },
+      {
+        "caption": "Manage appointments, and bill patients effortlessly",
+        "heading": "Healthcare",
+        "icon": "ri-hospital-fill",
+        "link": "/solutions/healthcare",
+        "color": "red"
+      },
+      {
+        "caption": "Empowering educators, enriching learners. With ERPNext",
+        "heading": "Education",
+        "icon": "ri-graduation-cap-fill",
+        "link": "/solutions/education",
+        "color": "purple"
+      },
+      {
+        "caption": "From design to delivery, we got you covered",
+        "heading": "Manufacturing",
+        "icon": "ri-tools-fill",
+        "link": "/solutions/manufacturing",
+        "color": "light-blue"
+      },
+      {
+        "caption": "Listings, deals, and more. Manage all at ease",
+        "heading": "Real Estate",
+        "icon": "ri-pencil-line",
+        "link": "/solutions/real-estate",
+        "color": "lime"
+      },
+      {
+        "caption": "Manage Inventory, Track orders, and deliver Shipments on time",
+        "heading": "Distribution",
+        "icon": "ri-truck-line",
+        "link": "/solutions/distribution",
+        "color": "deep-purple"
+      },
+      {
+        "caption": "Streamline your farm operations and boost yields",
+        "heading": "Agriculture",
+        "icon": "ri-hand-heart-line",
+        "link": "/solutions/agriculture",
+        "color": "teal"
+      }
+    ]
+  },
+  "Products": {
+    "items": [
+      {
+        "caption": "Simplify your business, grow your success.",
+        "heading": "ERPNext",
+        "icon": "ri-task-line",
+        "link": "/products/erpnext",
+        "color": "blue"
+      },
+      {
+        "caption": "Order and Deliver, all on your phone.",
+        "heading": "Mobile App",
+        "icon": "ri-task-line",
+        "link": "/products/mobileapp",
+        "color": "green",
+        "isHidden": true
+      },
+      {
+        "caption": "Effortless sales, seamless integration with ERPNext",
+        "heading": "NeuPOS",
+        "icon": "ri-trophy-line",
+        "link": "/products/neupos",
+        "color": "purple",
+        "isHidden": true
+      }
+    ]
+  },
+  "Services": {
+    "items": [
+      {
+        "caption": "Drive your business with innovation and growth",
+        "heading": "Business Consulting",
+        "icon": "ri-line-chart-line",
+        "link": "/services/business-consulting",
+        "color": "pink"
+      },
+      {
+        "caption": "Scale with confidence, we've got you covered.",
+        "heading": "E-Commerce",
+        "icon": "ri-file-list-2-line",
+        "link": "/services/e-commerce",
+        "color": "blue"
+      },
+      {
+        "caption": "Your one-stop shop for successful ERP Implementation.",
+        "heading": "ERP Implementation",
+        "icon": "ri-file-list-2-line",
+        "link": "/services/erp-implementation",
+        "color": "green"
+      },
+      {
+        "caption": "Effortless Efficiency. Workflows that work for you",
+        "heading": "Workflow Automation",
+        "icon": "ri-team-fill",
+        "link": "/services/workflow-automation",
+        "color": "purple"
+      }
+    ]
+  },
+  "About": {
+    "items": [
+      {
+        "caption": "Building tomorrow's solutions, today.",
+        "heading": "Company",
+        "icon": "ri-line-chart-line",
+        "link": "/about/company",
+        "color": "green"
+      }
+    ]
+  },
+  "Learn": {
+    "items": [
+      {
+        "caption": "Learn how ERP can transform your company",
+        "heading": "Blogs",
+        "icon": "ri-line-chart-line",
+        "link": "/learn/blogs",
+        "color": "blue"
+      },
+      {
+        "caption": "Don't just take our word for it, read the success stories.",
+        "heading": "Case Studies",
+        "icon": "ri-team-fill",
+        "link": "/learn/case-studies",
+        "color": "deep-purple"
+      },
+      {
+        "caption": "Get quick answers to your burning questions.",
+        "heading": "FAQ",
+        "icon": "ri-mail-check-line",
+        "link": "/learn/faq",
+        "color": "green"
+      }
+    ]
+  }
+}

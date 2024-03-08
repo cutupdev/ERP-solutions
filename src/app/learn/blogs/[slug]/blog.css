@@ -1,0 +1,57 @@
+.ql-editor.read-mode {
+  max-width: 1000px;
+  margin: 0 auto;
+  font-family: 'Arial', sans-serif;
+}
+
+/* Paragraph styling */
+.ql-editor.read-mode p {
+  line-height: 1.6;
+  margin-bottom: 15px;
+  /* background: #000; */
+  padding: 2px 20px;
+}
+
+/* Heading styling */
+.ql-editor.read-mode h1,
+.ql-editor.read-mode h2,
+.ql-editor.read-mode h3,
+.ql-editor.read-mode h4 {
+  font-weight: 900;
+  color: #333;
+}
+
+.ql-editor.read-mode h1 {
+  font-size: 1.2em;
+}
+
+.ql-editor.read-mode h2 {
+  font-size: 1.6em;
+}
+
+.ql-editor.read-mode h3 {
+  font-size: 1.2em;
+  /* background: #000; */
+}
+
+.ql-editor.read-mode h4 {
+  font-size: 1.5em;
+}
+
+/* Image styling */
+.ql-editor.read-mode img {
+  max-width: 100%;
+  height: auto;
+  margin: 15px 0;
+  display: block;
+}
+
+/* Link styling */
+.ql-editor.read-mode a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.ql-editor.read-mode a:hover {
+  text-decoration: underline;
+}

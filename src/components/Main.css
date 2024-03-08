@@ -1,0 +1,32 @@
+@media (max-width: 1100px) and (min-width: 768px) {
+  #topimg {
+    display: block;
+  }
+  #bottomimg {
+    display: none;
+  }
+  #content #left {
+    width: 100%;
+    margin: auto;
+  }
+  #navbar #nav2 {
+    display: none;
+  }
+}
+@media (max-width: 767px) {
+  #topimg {
+    display: block;
+  }
+  #bottomimg {
+    display: none;
+  }
+  #content #left {
+    width: 100%;
+    margin: auto;
+    padding: 4rem;
+  }
+  #navbar #nav2 {
+    display: none;
+  }
+}
+

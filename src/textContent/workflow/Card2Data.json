@@ -1,0 +1,14 @@
+{
+  "Automate Purchase Orders": {
+    "heading": "The End of the Inventory Guessing Game",
+    "body": "Avoid stockouts and ensure timely deliveries with workflows that automatically trigger purchase orders based on inventory levels and reorder points.",
+    "video": "/images/work-order.webm",
+    "top": "Purchasing"
+  },
+
+  "Automate Payments": {
+    "heading": "Predefined Rules, Predictable Payments",
+    "body": "Streamline invoice processing and vendor payments with automated workflows that route invoices for approval based on predefined rules and automatically initiate payments upon approval.",
+    "top": "Purchasing"
+  }
+}

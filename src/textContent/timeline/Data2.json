@@ -1,0 +1,60 @@
+{
+  "Timeline": [
+    {
+      "TimelineItem": {
+        "TimelineHeader": {
+          "Typography": "Consulting"
+        },
+        "TimelineBody": {
+          "Typography": "The foundation of every successful ERP implementation is understanding your unique operations. Our experienced consultants work with you to map your processes, define roles and user permissions, and document the flow for smooth implementation."
+        }
+      }
+    },
+    {
+      "TimelineItem": {
+        "TimelineHeader": {
+          "Typography": "Customisation & Implementation"
+        },
+        "TimelineBody": {
+          "Typography": "Building upon the insights gained in consultation, we transition to implementation, where we expertly merge your unique needs with the ERP ' s capabilities. Standard features and modules are our first choice, but for exceptional cases, we design and integrate plug-and-play customizations that ensure seamless future upgrades."
+        }
+      }
+    },
+    {
+      "TimelineItem": {
+        "TimelineHeader": {
+          "TimelineIcon": "The Implementation Journey",
+          "Typography": {
+            "Typography": [
+              "Discovery: Define project scope, milestones, customizations, and expected outcomes.",
+              "Planning: Develop a comprehensive strategy for smooth implementation and progress tracking.",
+              "Analysis & Configuration: Install and configure the system to mirror your specific processes.",
+              "Migration & Verification: Migrate data, map it accurately, and perform thorough verification checks.",
+              "Testing & Validation: Test the system across all functionalities, ensuring seamless quote-to-cash flow."
+            ]
+          }
+        }
+      }
+    },
+    {
+      "TimelineItem": {
+        "TimelineHeader": {
+          "Typography": "Training & Deployment"
+        },
+        "TimelineBody": {
+          "Typography": "Our comprehensive training equips users to navigate the new ecosystem with confidence. Through interactive sessions and a 'train-the-trainer' approach, we empower employees to self-sustain and operate the ERP software independently. With a smooth transition to the live environment, your team will unlock the full potential of the system, driving efficiency and success."
+        }
+      }
+    },
+    {
+      "TimelineItem": {
+        "TimelineHeader": {
+          "Typography": "Ongoing Support"
+        },
+        "TimelineBody": {
+          "Typography": "Go live worry-free! Our round-the-clock support puts our 15-year ERP expertise at your fingertips. Our dedicated support team will craft a roadmap tailored to your evolving needs, ensuring your software keeps pace with your success."
+        }
+      }
+    }
+  ]
+}

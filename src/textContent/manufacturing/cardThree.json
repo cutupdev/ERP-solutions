@@ -1,0 +1,7 @@
+{
+  "Multi Level BOM": {
+    "heading": "Supercharge Your Manufacturing with BOM",
+    "body": "A Bill of Materials (BOM) is a list of all the raw materials, sub-assemblies, and items required to manufacture a finished product. It can contain multiple levels of sub-assemblies and items.ERPNext also allows users to create multi-level BOMs. This means that a BOM can contain other BOMs. This is useful for complex products that require multiple sub-assemblies.",
+    "video": "/images/work-order.webm"
+  }
+}

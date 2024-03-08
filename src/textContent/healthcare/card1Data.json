@@ -1,0 +1,16 @@
+{
+  "Patient Management": {
+    "heading": "Complete Patient Management Solution",
+    "body": "Create and manage patient records, including demographics, medical history, and insurance information. ERPNext makes it easier for healthcare providers to coordinate care across different departments and specialties. This can lead to better patient outcomes.",
+    "video": "/images/work-order.webm"
+  },
+
+  "Appointment Scheduling": {
+    "heading": "Appointment Scheduling Made Easy",
+    "body": "Schedule appointments and keep track of patient wait times. ERPNext automates many time-consuming tasks, such as patient scheduling, appointment management, and medical record keeping. This frees up healthcare staff to focus on providing patient care."
+  },
+  "Clinical Procedures": {
+    "heading": " Complete Clinical Procedures Solution",
+    "body": "Record clinical procedures and manage medications and investigations. ERPNext allows healthcare providers to communicate with patients and families about clinical procedures. This can be done through email, SMS, or the ERPNext patient portal."
+  }
+}

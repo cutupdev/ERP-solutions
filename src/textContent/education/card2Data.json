@@ -1,0 +1,16 @@
+{
+  "Staff Management": {
+    "heading": "Enhance Staff Performance",
+    "body": "Manage employee records, payroll, and leaves. ERPNext automates many time-consuming tasks related to staff management, such as employee onboarding, payroll processing, and leave management.",
+    "video": "/images/work-order.webm"
+  },
+
+  "Student Tracking and Assessment": {
+    "heading": "Improve Student Progress Tracking",
+    "body": "Track student progress and assess their learning using assignments, quizzes, and exams. ERPNext helps to ensure that student grades and assessments are accurate and reliable. This is done by providing templates and checklists for common grading and assessment procedures, as well as the ability to track student progress over time."
+  },
+  "Reporting and Analytics": {
+    "heading": "Gain Insights into Your Education Data",
+    "body": "ERPNext can be used to generate reports on student enrollment, attendance, grades, and progress. This information can be used to identify students who need additional support, track student progress over time, and make informed decisions about student placement."
+  }
+}

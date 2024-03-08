@@ -1,0 +1,16 @@
+.gradient-text {
+  background: linear-gradient(90deg, #000, #00eeff, #0000ff, #ff00ff);
+  -webkit-background-clip: text;
+  color: transparent;
+  display: inline-block;
+}
+@media (max-width: 1200px) {
+  .lower .card {
+    display: grid;
+    width: 100%;
+    grid-template-columns: 1fr;
+  }
+  .lower {
+    padding: 0;
+  }
+}

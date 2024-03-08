@@ -1,0 +1,7 @@
+{
+  "NeuPOS": {
+    "heading": "  Offline POS that Syncs data to ERPNext",
+    "body": "NeuPOS is a POS Module that is designed to help businesses of all sizes to streamline their sales and inventory management processes, It can work offline and sync the data to ERPNext. It's built on top of Frappe Books, free and offline open-source accounting software, which allows businesses to manage sales, inventory, and finances all in one place.",
+    "image": "/images/videoTextCard/fbooks-pos.png"
+  }
+}

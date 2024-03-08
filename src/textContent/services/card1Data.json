@@ -1,0 +1,16 @@
+{
+  "Customer Management": {
+    "heading": " Enhanced Customer Relationship Management",
+    "body": "ERPNext's CRM module provides a centralized platform for managing customer interactions, tracking sales opportunities, and maintaining detailed customer records. This enables businesses to nurture relationships, provide personalized service, and increase customer satisfaction.",
+    "video": "/images/work-order.webm"
+  },
+
+  "Marketing Campaigns": {
+    "heading": "Revolutionize Your Marketing Strategy",
+    "body": "ERPNext's marketing automation features help businesses plan, execute, and track marketing campaigns effectively. It offers tools for lead generation, nurturing, and email marketing. It also integrates with social media and provides marketing analytics."
+  },
+  "Project Management": {
+    "heading": "Achieve Project Excellence",
+    "body": "ERPNext's project management tools offer a comprehensive and effective solution to streamline project operations, enhance project success, and improve overall efficiency. Its centralized platform, real-time visibility, and customizable workflows makes ERPNext an attractive option for businesses."
+  }
+}

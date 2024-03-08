@@ -1,0 +1,104 @@
+{
+  "Manufacturing": {
+    "icon": "building-3-line",
+    "heading": "Supercharge Your Manufacturing",
+    "caption": "ERPNext can be your manufacturing hero, streamlining operations and boosting efficiency.",
+    "benefits": [
+      "Track your raw materials and finished goods",
+      "Manage inventory across multiple locations",
+      "Simplify product creation with accurate BOMs",
+      "Lower operational costs by optimizing Inventory"
+    ],
+    "points": [
+      {
+        "icon": "building-3-line",
+        "title": "Real-time inventory tracking"
+      },
+      { "icon": "article-line", "title": "Multi-level BOMs" },
+      { "icon": "file-add-line", "title": "Work orders and routing" },
+      {
+        "icon": "map-2-line",
+        "title": "Production planning and forecasting"
+      }
+    ],
+    "button": { "text": "zz", "link": "/contact-us" }
+  },
+  "Distribution": {
+    "icon": "truck-line",
+    "heading": "From Clicks to Ships, Seamlessly",
+    "caption": "Streamline your Distribution operations, delight customers, optimize costs, and make smarter decisions",
+    "benefits": [
+      "Track stock levels and movement in real-time",
+      "Plan routes and schedules reducing shipping costs",
+      "Eliminate labor costs through automation",
+      "Uncover hidden patterns in sales, customer behavior"
+    ],
+    "points": [
+      { "icon": "time-line", "title": "Real-time Insights" },
+      { "icon": "truck-line", "title": "Shipping Integration" },
+      { "icon": "crosshair-line", "title": "Targeted Marketing" },
+      {
+        "icon": "customer-service-2-line",
+        "title": "Supercharged Support"
+      }
+    ],
+    "button": { "text": "zz", "link": "/contact-us" }
+  },
+  "Trading": {
+    "icon": "building-line",
+    "heading": "Every Trade, Every Detail",
+    "caption": "Manage purchases, sales, inventory, finances, and more - all under one roof",
+    "benefits": [
+      "Get instant access to real-time market data and trends",
+      "Track your finances easily with integrated accounting tools",
+      "Manage customer relationships with built-in CRM tools",
+      "Manage your trades anytime, anywhere through Mobile "
+    ],
+    "points": [
+      { "icon": "dashboard-3-line", "title": "Market Dashboards" },
+      {
+        "icon": "arrow-left-right-line",
+        "title": "Automated Order Placement"
+      },
+      { "icon": "equalizer-2-line", "title": "Workflow Automation" },
+      { "icon": "arrow-right-up-line", "title": "Seamless Scalability" }
+    ],
+    "button": { "text": "zz", "link": "/contact-us" }
+  },
+  "Retail": {
+    "icon": "store-2-line",
+    "heading": "Boost Efficiency and Loyalty",
+    "caption": "Take control, optimize operations, and watch your customers and profits soar to new heights!",
+    "benefits": [
+      "Track delivery schedules and manage contracts",
+      "Integration with Shipping Providers",
+      "POS that runs offline and Syncs data to ERPNext",
+      "Analyze sales trends and campaign effectiveness"
+    ],
+    "points": [
+      { "icon": "hourglass-2-line", "title": "Predictive Forecasting" },
+      { "icon": "dashboard-3-line", "title": "Real-time Dashboards" },
+      { "icon": "arrow-left-right-line", "title": "Automated Ordering" },
+      { "icon": "truck-line", "title": "Seamless Logistics" }
+    ],
+    "button": { "text": "zz", "link": "/contact-us" }
+  },
+  "Education": {
+    "icon": "school-line",
+    "heading": "Lead with Efficiency, Empower with Insights",
+    "caption": "Manage admissions effectively, automate fees and scholarships, track attendance effortlessly.",
+    "benefits": [
+      "Organize and share lesson plans and materials.",
+      "Allocate resources effectively",
+      "Generate Reports on various aspects of your Institution",
+      "Customize the system to suit your specific needs"
+    ],
+    "points": [
+      { "icon": "money-rupee-circle-line", "title": "Reduced Costs" },
+      { "icon": "settings-line", "title": "Streamlined Operations" },
+      { "icon": "file-chart-line", "title": "Effortless Reporting" },
+      { "icon": "team-line", "title": "Open-Source Flexibility" }
+    ],
+    "button": { "text": "zz", "link": "/contact-us" }
+  }
+}

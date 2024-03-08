@@ -1,0 +1,12 @@
+{
+  "Order Fulfillment": {
+    "heading": "Effortless Orders, Happy Customers",
+    "body": "Orders flow directly from your online store to ERPNext, triggering automatic purchase order creation, inventory updates, and shipping label generation. No more manual data entry or messy spreadsheets!",
+    "video": "/images/work-order.webm"
+  },
+
+  "Inventory Harmony": {
+    "heading": "Upgrade your inventory game with Real-time sync",
+    "body": "Real-time stock synchronization between your e-commerce platform and ERPNext ensures you never sell out unexpectedly. Say goodbye to overselling and frustrated customers!"
+  }
+}

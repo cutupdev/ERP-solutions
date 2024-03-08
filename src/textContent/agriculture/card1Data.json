@@ -1,0 +1,12 @@
+{
+  "Crop Management": {
+    "heading": " Crop Management Made Easy",
+    "body": "ERPNext's Agriculture module can help agricultural businesses to track their crops, manage their irrigation systems, and generate reports on crop yields.",
+    "video": "/images/work-order.webm"
+  },
+
+  "Financial Management": {
+    "heading": " Get Real-Time Insights and Improve Profitability",
+    "body": "ERPNext's Accounting module can help agricultural businesses to track their income and expenses, generate financial reports, and manage their cash flow."
+  }
+}

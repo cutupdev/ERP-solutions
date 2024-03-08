@@ -1,0 +1,10 @@
+/* styles/globals.css or your preferred CSS file */
+
+@keyframes fillProgressBar {
+  0% {
+    transform: scaleX(0);
+  }
+  100% {
+    transform: scaleX(1);
+  }
+}

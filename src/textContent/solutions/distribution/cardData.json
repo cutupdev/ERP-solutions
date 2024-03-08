@@ -1,0 +1,12 @@
+{
+  "Inventory Management": {
+    "heading": "Never miss a beat with ERPNext's real-time inventory insights",
+    "body": "ERPNext can help you track your inventory levels in real-time, which can help you avoid stockouts and overstocking. You can also use ERPNext to set up reorder points, so you'll automatically be notified when it's time to order more inventory.",
+    "video": "/images/work-order.webm"
+  },
+  "Order Fulfillment": {
+    "heading": "Order in, shipped now. Automate fulfillment magic with ERPNext",
+    "body": "ERPNext can help you automate your order fulfillment process, from taking orders to shipping them out the door. This can save you time and money, and it can also help you improve your customer satisfaction.",
+    "video": "/images/work-order.webm"
+  }
+}

@@ -1,0 +1,34 @@
+name: 🔨 Build Project
+
+on: workflow_dispatch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 💠 Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 📂 Checkout Project
+        uses: actions/checkout@v4
+
+      - name: ⬇️ Install Dependencies
+        run: |
+          yarn
+
+      - name: 🔨 Build Project
+        run: |
+          yarn build
+        env:
+          NEXT_PUBLIC_API_ENDPOINT: ${{ vars.NEXT_PUBLIC_API_ENDPOINT }}
+
+        # - name: 🔗 Zip Files
+        #   run: cd out && tar -cvf wit-site-build.zip *
+
+      - name: ⬆️ Upload Build
+        uses: actions/upload-artifact@v4
+        with:
+          name: wit-site-build
+          path: out

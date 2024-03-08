@@ -1,0 +1,16 @@
+{
+  "Student Management": {
+    "heading": "Student management made easy",
+    "body": "Create and manage student records, including demographics, contact information, academic performance, and financial status. ERPNext automates the admissions processing process, from receiving applications to reviewing transcripts and sending out acceptance letters.",
+    "video": "/images/work-order.webm"
+  },
+
+  "Course creation and Management ": {
+    "heading": "Streamline Course Creation and Management",
+    "body": "Create and manage online courses, including curricula, syllabi, and assessments. ERPNext automates many time-consuming tasks related to course creation and management, such as developing course materials, scheduling classes, and tracking student progress. This frees up educational staff to focus on teaching and other essential tasks."
+  },
+  "Fees Management": {
+    "heading": " Simplify Fees Management",
+    "body": "Generate and collect student fees. ERPNext helps to ensure that student fees are calculated and collected accurately and in compliance with educational regulations."
+  }
+}

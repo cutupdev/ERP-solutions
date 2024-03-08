@@ -1,0 +1,9 @@
+@media (max-width: 1400px) {
+  #Videotextcard #top-video {
+    display: block;
+    width: 100%;
+  }
+  #Videotextcard #bottom-video {
+    display: none;
+  }
+}

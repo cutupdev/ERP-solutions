@@ -1,0 +1,18 @@
+{
+  "Warehouse stock management": {
+    "heading": " Gain Real-Time Visibility into Warehouse Operations",
+    "body": "Warehouse stock management in ERPNext is a comprehensive and integrated solution for managing inventory levels, stock movements, and warehouse operations. It provides a variety of features to help businesses track their inventory in real time, optimize their stock levels, and improve their warehouse efficiency.",
+    "image": "/images/videoTextCard/warehouse-dash.png"
+  },
+
+  "Inventory Forecasting": {
+    "heading": " Inventory Forecasting tool to Boost Your Profits",
+    "body": "Inventory forecasting helps businesses to predict future demand for their products. It uses historical sales data and other factors to generate a forecast of how many units of each product are likely to be sold in a given period of time.",
+    "image": "/images/videoTextCard/forecasting.png"
+  },
+  "Price Lists": {
+    "heading": " Manage Your Item Prices Better with Price Lists",
+    "body": "It can be used to store different prices for different items, customers, currencies, or regions. also be used to create different price levels, such as wholesale and retail prices. By using price lists, you can improve the accuracy and flexibility of your pricing strategy.",
+    "image": "/images/videoTextCard/price-list.png"
+  }
+}

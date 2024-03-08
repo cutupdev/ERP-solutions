@@ -1,0 +1,50 @@
+{
+  "Costing and Charges": [
+    {
+      "title": "What is the cost of the ERP solution ?",
+      "body": "As we are providing an open-source ERP solution, we are not charging based on the companies or users. We are charging only for our efforts to do the implementation. Here you are not paying any amount for the new users or new companies. There will be a one-time implementation cost. We are also providing AMC to our customers but the AMCs are not mandatory. "
+    },
+    {
+      "title": "Is the open-source and available in the market, why are you charging for the open-source Solutions?",
+      "body": "As far as security is concerned, the big win in using open source software is transparency. The problems are likely to be discovered faster and the fixes will be released fast. The update cycle of open source solutions is shorter compared to proprietary solutions. High visibility creates an urgency to fix issues, and may even lead to better code in the first place. "
+    },
+    {
+      "title": "What is the cost of the ERP solution ?",
+      "body": "As we are providing an open-source ERP solution, we are not charging based on the companies or users. We are charging only for our efforts to do the implementation. Here you are not paying any amount for the new users or new companies. There will be a one-time implementation cost. We are also providing AMC to our customers but the AMCs are not mandatory."
+    }
+  ],
+  "Implementation": [
+    {
+      "title": "Can I host the ERP on-premise? Why are you prefer the cloud server?",
+      "body": "In today’s world, cyber-attacks are one of the main issues enterprises are facing. Cloud Datacenters employ security measures beyond the affordability of most businesses, therefore your data is often safer in the cloud than on a server in your offices. You can access your applications anytime and anywhere via a Mobile APP/We browser from any device. You don’t need to worry about the maintenance of the hardware it resides on, compatibility and upgrades are taken care of by the cloud service provider. Also, cloud technologies provide greater flexibility and can easily scale to meet demand, for example adding and scaling back companies / users."
+    },
+    {
+      "title": "How long it will take for an ERP Implementation?",
+      "body": "Usually, it will take 60-90 days to complete an ERP implementation. This includes installation, data migration, configuration, customization, training, testing, and parallel run. This also depends upon the client providing data, time to complete testing, etc. We will create an SRS (Software Requirement Specification) document before starting the implementation and we will define the timeline on the document."
+    },
+    {
+      "title": "Can we migrate the historical data from the legacy software?",
+      "body": "We will migrate all the master data from the existing software like the chart of accounts, customer list, supplier list, employee list, item list, BOM list, etc. Also during the final migration, we will migrate the outstanding invoices of customers and suppliers along with the opening balances. We have some API integrations available for migrating the historical data if it is very much relevant to the customer."
+    },
+    {
+      "title": "Can we integrate your ERP with any other third-party software or hardware?",
+      "body": "Yes. Our solutions can be integrated with biometric machines, marketplaces, Payment gateways, Google calendars, third-party backup servers, etc."
+    }
+  ],
+  "Customization": [
+    {
+      "title": "What happened if the customer required customization? Will it affect the upgrades?",
+      "body": "As a company, Wahni follows strict rules when it comes to customization. Our development team won’t change the core code of the software so the customizations won’t affect the upgrades. We will create separate apps for the customizations required and will be integrated into the core code. When an upgrade is required, we will do plug n play of custom apps and will upgrade the software. "
+    }
+  ],
+  "General": [
+    {
+      "title": "What is open-source software ?",
+      "body": "Open-source software is computer software whose source code is available openly on the internet and programmers can modify it to add new features and capabilities without any cost. Here the software is developed and tested through open collaboration. This software is managed by an open-source community of developers. It provides community support, as well as commercial support, is available for maintenance. "
+    },
+    {
+      "title": "Why do i need on ERP?",
+      "body": "ERP solution helps businesses to find more ways to grow with a satisfied customer base in the competitive market. You can manage your operations and departments in a centralized integrated system. It will help the companies to streamline their business process, better accounting and financial reporting, faster response time to customers, reduce the unwanted operational costs effectively, increase productivity, Mobility and flexibility. It will provide accurate real-time information that will help the stakeholders to make a good business decisions efficiently and effectively. Also, it will help the enterprises to secure the information about their business completely. If your employees are spending more time on manual tasks or if you are not able to make the business decision fast, then this is the right time to find an ERP solution for your business."
+    }
+  ]
+}

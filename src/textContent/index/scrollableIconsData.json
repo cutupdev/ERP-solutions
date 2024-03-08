@@ -1,0 +1,26 @@
+{
+  "Dashboards": {
+    "icon": "dashboard-3-line",
+    "image": "/images/hero/sales-dash.png"
+  },
+  "Charts": {
+    "icon": "bar-chart-line",
+    "image": "/images/hero/projects.png"
+  },
+  "Timesheets": {
+    "icon": "calendar-schedule-line",
+    "image": "/images/hero/timesheet.png"
+  },
+  "BOM": {
+    "icon": "article-line",
+    "image": "/images/hero/bom-list.png"
+  },
+  "General Ledger": {
+    "icon": "file-chart-line",
+    "image": "/images/hero/gl.png"
+  },
+  "CRM": {
+    "icon": "customer-service-2-line",
+    "image": "/images/hero/lead.png"
+  }
+}

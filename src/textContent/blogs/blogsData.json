@@ -1,0 +1,64 @@
+{
+  "blogCards": [
+    {
+      "image": "/images/blog1.webp",
+      "heading": "How order management app streamline the business",
+      "bodyText": "An order management application is a software programme that completely automates the handling of orders. You can simply access all this information like sales, customer data, inventory...",
+      "profile": {
+        "image": "/images/blogprofile.webp",
+        "name": "Rakin Karunakaran",
+        "date": "16 December, 2022"
+      }
+    },
+    {
+      "image": "/images/blog2.webp",
+      "heading": "6 key phases of an ERP implementation plan",
+      "bodyText": "An enterprise resource planning (ERP) system is a software programme that organises all of a company's operational procedures into a single software program. Accounting, human resources, and production are a few examples...",
+      "profile": {
+        "image": "/images/blogprofile.webp",
+        "name": "Rakin Karunakaran",
+        "date": "19 November, 2022"
+      }
+    },
+    {
+      "image": "/images/blog3.jpg",
+      "heading": "why ERP software required for your business",
+      "bodyText": "ERP, or enterprise resource planning, is a type of business application that connects and manages all areas of your company's performance, including but not limited to customer relationship management ....",
+      "profile": {
+        "image": "/images/blogprofile.webp",
+        "name": "Saumyaseelan PV",
+        "date": "11 November, 2022"
+      }
+    },
+    {
+      "image": "/images/blog4.png",
+      "heading": "what are the supply chain management challenges",
+      "bodyText": "Supply chain management is the handling of the entire production flow of a good or service — starting from the raw components all the way to delivering the final product to the consumer...",
+      "profile": {
+        "image": "/images/blogprofile.webp",
+        "name": "Civic john",
+        "date": "27 October, 2022"
+      }
+    },
+    {
+      "image": "/images/blog5.png",
+      "heading": "Difference between accounting software & ERP",
+      "bodyText": "The accounting software is not designed to offer Manufacturing Management, but ERP software can handle these needs very well. This feature includes Production Planning, Bill of Materials...",
+      "profile": {
+        "image": "/images/blogprofile.webp",
+        "name": "Civic john",
+        "date": "25 October, 2021"
+      }
+    },
+    {
+      "image": "/images/blog6.png",
+      "heading": "open source solution vs proprietary solutions",
+      "bodyText": "Open source software is a computer software whose source code is available openly in the internet and programmers can modify it to add new features and capabilities without any cost ....",
+      "profile": {
+        "image": "/images/blogprofile.webp",
+        "name": "Saumyaseelan PV",
+        "date": "24 October, 2021"
+      }
+    }
+  ]
+}

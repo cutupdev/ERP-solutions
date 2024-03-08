@@ -1,0 +1,18 @@
+{
+  "POSAwesome": {
+    "heading": "Feature-Rich POS System for all Businesses",
+    "body": "POS Awesome is an open-source point-of-sale (POS) system for Erpnext users. It is designed to be user-friendly and efficient, and it offers a wide range of features, including:",
+    "points": ["Returns from POS", "Credit Sales", "Batch & Serial Numbering"],
+    "image": "/images/videoTextCard/pos-awesome.png"
+  },
+  "Custom Invoice Print Format Templates": {
+    "heading": "Create Informative and Visually Appealing Invoices",
+    "body": "You can create and use invoices that are tailored to your specific business needs. You can customize it to match your company's branding and to include all of the information that you need to include on your invoices.",
+    "image": "/images/hero/sinv-pf.png"
+  },
+  "Coupon Codes and Loyalty": {
+    "heading": "Use Coupon Codes and Loyalty to Drive Revenue",
+    "body": "Coupon Codes can be used to promote specific products or services, to attract new customers, or to reward loyal customers. They can be applied to invoices at the point of sale.\nLoyalty programs allow businesses to reward their customers for their repeat business. These points can be redeemed for discounts, free products or services, or other rewards.",
+    "image": "/images/videoTextCard/loyalty-program.png"
+  }
+}

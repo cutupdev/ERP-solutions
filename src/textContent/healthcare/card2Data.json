@@ -1,0 +1,20 @@
+{
+  "Laboratory Management": {
+    "heading": "Improve Your Laboratory Efficiency with ERPNext",
+    "body": "Manage laboratory tests and results. ERPNext helps to ensure that laboratory tests are performed accurately and reliably. This is done by providing templates and checklists for common tests, as well as the ability to track sample quality and instrument performance.",
+    "video": "/images/work-order.webm"
+  },
+
+  "Pharmacy Management": {
+    "heading": "Pharmacy Management Made Easy",
+    "body": "Manage pharmacy inventory and dispense medications to patients. ERPNext allows pharmacies to track patient medication histories and allergies. This information can be used to prevent drug interactions and adverse events."
+  },
+  "Billing and Insurance": {
+    "heading": "Reduce Your Billing and Insurance Errors",
+    "body": "Generate accurate bills and submit claims to insurance companies. ERPNext allows billing staff to electronically submit claims to insurance companies. This can help to reduce turnaround times and improve the efficiency of the claims process."
+  },
+  "Reporting and Analytics": {
+    "heading": "Generate Reports and Analyze Your Data",
+    "body": "Generate reports on patient visits, clinical procedures, lab results, and financial performance. ERPNext provides a variety of reports and analytics that can help billing departments to track trends in their operations, identify areas for improvement, and make better decisions about their business."
+  }
+}

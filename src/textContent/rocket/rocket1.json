@@ -1,0 +1,15 @@
+{
+  "Typography1": {
+    "content": "Ready to experience the magic of workflow automation? Here are some next steps"
+  },
+  "Typography2": {
+    "content": {
+      "ul": {
+        "li1": "Explore the extensive library of pre-built workflows available in ERPNext.",
+        "li2": "Consult with an ERPNext expert to design and implement custom workflows tailored to your specific needs.",
+        "li3": "Start small, automate one or two processes at a time, and gradually expand your workflow automation capabilities."
+      }
+    }
+  },
+  "Button": "Contact Sales"
+}

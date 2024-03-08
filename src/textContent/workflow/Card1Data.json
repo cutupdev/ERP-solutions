@@ -1,0 +1,14 @@
+{
+  "Order Processing": {
+    "heading": "Automated quote generation and order processing",
+    "body": "Streamline the sales cycle with automated workflows that generate quotes based on predefined configurations and automatically process orders as they come in.",
+    "video": "/images/work-order.webm",
+    "top": "Sales"
+  },
+
+  "Lead Management": {
+    "heading": "Nurture Leads, Harvest Profits",
+    "body": "Lead nurturing and Set up automated email campaigns and reminders to keep leads engaged and ensure timely follow-up, boosting conversion rates.",
+    "top": "Sales"
+  }
+}
