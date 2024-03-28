@@ -167,7 +167,7 @@ function MobileNavbar() {
 
                 <Link href="/" onClick={closeDrawer}>
                     <Typography variant="h5" className="text-gray-900">
-                        Home
+                        HomeI
                     </Typography>
                 </Link>
 
@@ -224,7 +224,7 @@ function Navbar() {
 
     return (
         <Fragment>
-            <div id='navbar' className="px-6 md:px-10 flex items-center justify-between  py-6">
+            <div id='navbar' className="px-6 md:px-10 flex items-center justify-between  py-3 sticky top-0 bg-white shadow-md">
                 <div id='navbar-part-1'>
                     <Link href="/">
                         <Image
@@ -235,7 +235,7 @@ function Navbar() {
                         />
                     </Link>
                 </div>
-                
+
 
                 <div className="hidden md:flex items-center justify-center gap-7 font-bold text-[#20262e]   px-10 " id='navbar-part-2'>
                     <Link
