@@ -242,7 +242,7 @@ function Navbar() {
                         href="/"
                         className="mt-0.5 font-extrabold bg-sky-blue hover:bg-light-purple transition duration-300 ease-in-out transform hover:scale-105 hover:text-blue-500"
                     >
-                        Home
+                        HomeI
                     </Link>
 
                     {navbarDataKeys.map((key) => (
