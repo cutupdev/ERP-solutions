@@ -123,7 +123,8 @@ function MobileNav({ title, data, closeDrawer }) {
 }
 
 function MobileNavbar() {
-    const [isDrawerOpen, setDrawerOpen] = useState(false);
+    // Variable 
+    const [isDrawerOpen, setDrawerOpen] = useState(false); 
     const navbarKeys = Object.keys(navbarData);
 
     const openDrawer = () => setDrawerOpen(true);
